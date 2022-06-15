@@ -1,0 +1,9 @@
+Tiempo de demora del archivo ho.txt con cantidad de elementos 1: 2166895496010299-2166895496001999 -> 8300 nanosegundos
+Tiempo de demora del archivo hola2.txt con cantidad de elementos 2: 2166895499052100-2166895499049600 -> 2500 nanosegundos
+Tiempo de demora del archivo real1.txt con cantidad de elementos 20: 2166895503423800-2166895503414800 -> 9000 nanosegundos
+Tiempo de demora del archivo real11.csv con cantidad de elementos 50: 2166895506905200-2166895506884900 -> 20300 nanosegundos
+Tiempo de demora del archivo real2.txt con cantidad de elementos 100: 2166895510501500-2166895510456000 -> 45500 nanosegundos
+Tiempo de demora del archivo real3.txt con cantidad de elementos 100: 2166895514992500-2166895514945500 -> 47000 nanosegundos
+Tiempo de demora del archivo real7.txt con cantidad de elementos 15: 2166895518422899-2166895518416199 -> 6700 nanosegundos
+
+
